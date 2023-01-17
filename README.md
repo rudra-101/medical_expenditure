@@ -1,1 +1,1 @@
-# medical_expenditure
+A machine learning-based model which predicts the medical cost of a person using linear regression for different parameters such as his/her age, sex, region, BMI, whether he/she is a smoker or not and whether he/she has children or not and then also predicting any persons medical charges.
